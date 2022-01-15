@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MillerGMD
-- 👀 I’m interested in JavaScript, AngularJS, TypeScript, NodeJS, Electron.
+- 👀 I’m interested in JavaScript, Angular
+- , TypeScript, NodeJS, Electron.
 - 🌱 I’m currently learning JavaScript, AngularJS, TypeScript, NodeJS, Electron.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegramm @Miller_gmd
